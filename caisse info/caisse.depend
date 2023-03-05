@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1674075799 source:/home/lasher/Programming/C/caisse/Projet_Caisse/caisse/produits.c
+	"definitions.h"
+
+1674078711 /home/lasher/Programming/C/caisse/Projet_Caisse/caisse/definitions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<assert.h>
+
+1674075834 source:/home/lasher/Programming/C/caisse/Projet_Caisse/caisse/utils.c
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1674075603 /home/lasher/Programming/C/caisse/Projet_Caisse/caisse/utils.h
+
+1674076592 source:/home/lasher/Programming/C/caisse/Projet_Caisse/caisse/fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	"fichiers.h"
+	"utils.h"
+
+1674076659 /home/lasher/Programming/C/caisse/Projet_Caisse/caisse/fichiers.h
+	"definitions.h"
+
+1674076226 source:/home/lasher/Programming/C/caisse/Projet_Caisse/caisse/personnes.c
+	"definitions.h"
+	"fichiers.h"
+
+1674076293 source:/home/lasher/Programming/C/caisse/Projet_Caisse/caisse/main.c
+	"definitions.h"
+	"fichiers.h"
+
+1674076592 source:/home/lasher/Documents/IUT/2022_2023/info/IUT_info1_proj2/caisse/Projet_Caisse/caisse/fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	"fichiers.h"
+	"utils.h"
+
+1674076659 /home/lasher/Documents/IUT/2022_2023/info/IUT_info1_proj2/caisse/Projet_Caisse/caisse/fichiers.h
+	"definitions.h"
+
+1674221789 /home/lasher/Documents/IUT/2022_2023/info/IUT_info1_proj2/caisse/Projet_Caisse/caisse/definitions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<assert.h>
+
+1674075603 /home/lasher/Documents/IUT/2022_2023/info/IUT_info1_proj2/caisse/Projet_Caisse/caisse/utils.h
+
+1674221656 source:/home/lasher/Documents/IUT/2022_2023/info/IUT_info1_proj2/caisse/Projet_Caisse/caisse/main.c
+	"definitions.h"
+	"fichiers.h"
+	"utils.h"
+
+1674075834 source:/home/lasher/Documents/IUT/2022_2023/info/IUT_info1_proj2/caisse/Projet_Caisse/caisse/utils.c
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1674080152 source:/home/lasher/Documents/IUT/2022_2023/info/IUT_info1_proj2/caisse/Projet_Caisse/caisse/personnes.c
+	"definitions.h"
+	"fichiers.h"
+
+1674221614 source:/home/lasher/Documents/IUT/2022_2023/info/IUT_info1_proj2/caisse/Projet_Caisse/caisse/produits.c
+	"definitions.h"
+
+1676277938 source:c:\users\asad1\desktop\,\f\caisse\chiffrement.c
+	"chiffrement.h"
+
+1676277938 c:\users\asad1\desktop\,\f\caisse\chiffrement.h
+	"definitions.h"
+
+1676277938 c:\users\asad1\desktop\,\f\caisse\definitions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<assert.h>
+	<ctype.h>
+	"fichiers.h"
+	"utils.h"
+	"panier.h"
+	"personnes.h"
+	"produits.h"
+
+1676277938 c:\users\asad1\desktop\,\f\caisse\fichiers.h
+	"definitions.h"
+
+1676277938 c:\users\asad1\desktop\,\f\caisse\utils.h
+
+1676277938 c:\users\asad1\desktop\,\f\caisse\panier.h
+	"definitions.h"
+	"produits.h"
+	"utils.h"
+
+1676277938 c:\users\asad1\desktop\,\f\caisse\produits.h
+
+1676541289 c:\users\asad1\desktop\,\f\caisse\personnes.h
+
+1677147299 source:c:\users\asad1\desktop\,\f\caisse\fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	"fichiers.h"
+	"utils.h"
+
+1677328719 source:c:\users\asad1\desktop\,\f\caisse\main.c
+	"definitions.h"
+
+1676277938 source:c:\users\asad1\desktop\,\f\caisse\panier.c
+	"panier.h"
+	"personnes.h"
+	"produits.h"
+
+1676277938 source:c:\users\asad1\desktop\,\f\caisse\produits.c
+	"definitions.h"
+	"utils.h"
+
+1676277938 source:c:\users\asad1\desktop\,\f\caisse\utils.c
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1677426088 source:c:\users\asad1\desktop\,\f\caisse\personnes.c
+	"definitions.h"
+	"fichiers.h"
+	"chiffrement.h"
+
+1678008942 source:c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\chiffrement.c
+	"chiffrement.h"
+
+1678008942 c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\chiffrement.h
+	"definitions.h"
+
+1678008942 c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\definitions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<assert.h>
+	<ctype.h>
+	"fichiers.h"
+	"utils.h"
+	"panier.h"
+	"personnes.h"
+	"produits.h"
+
+1678008942 c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\fichiers.h
+	"definitions.h"
+
+1678008942 c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\utils.h
+
+1678008942 c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\panier.h
+	"definitions.h"
+	"produits.h"
+	"utils.h"
+
+1678008942 c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\produits.h
+
+1678008942 c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\personnes.h
+
+1678008942 source:c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	"fichiers.h"
+	"utils.h"
+
+1678008942 source:c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\main.c
+	"definitions.h"
+
+1678008942 source:c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\panier.c
+	"panier.h"
+	"personnes.h"
+	"produits.h"
+
+1678008942 source:c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\personnes.c
+	"definitions.h"
+	"fichiers.h"
+	"chiffrement.h"
+
+1678008942 source:c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\produits.c
+	"definitions.h"
+	"utils.h"
+
+1678008942 source:c:\users\asad1\desktop\,\f\caisse-a-s-a-d-patch-1\utils.c
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1678046426 source:c:\users\asad1\desktop\caisse info\chiffrement.c
+	"chiffrement.h"
+	"definitions.h"
+
+1678026436 c:\users\asad1\desktop\caisse info\chiffrement.h
+	"definitions.h"
+
+1678044617 c:\users\asad1\desktop\caisse info\definitions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<assert.h>
+	<ctype.h>
+	"fichiers.h"
+	"utils.h"
+	"panier.h"
+	"personnes.h"
+	"produits.h"
+
+1678008942 c:\users\asad1\desktop\caisse info\fichiers.h
+	"definitions.h"
+
+1678008942 c:\users\asad1\desktop\caisse info\utils.h
+
+1678008942 c:\users\asad1\desktop\caisse info\panier.h
+	"definitions.h"
+	"produits.h"
+	"utils.h"
+
+1678008942 c:\users\asad1\desktop\caisse info\produits.h
+
+1678027507 c:\users\asad1\desktop\caisse info\personnes.h
+
+1678039464 source:c:\users\asad1\desktop\caisse info\fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	"fichiers.h"
+	"utils.h"
+
+1678046497 source:c:\users\asad1\desktop\caisse info\main.c
+	"definitions.h"
+
+1678012568 source:c:\users\asad1\desktop\caisse info\personnes.c
+	"definitions.h"
+	"fichiers.h"
+	"chiffrement.h"
+
+1678008942 source:c:\users\asad1\desktop\caisse info\produits.c
+	"definitions.h"
+	"utils.h"
+
+1678008942 source:c:\users\asad1\desktop\caisse info\utils.c
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1678022775 source:c:\users\asad1\desktop\caisse info\panier.c
+	"panier.h"
+	"personnes.h"
+	"produits.h"
+
